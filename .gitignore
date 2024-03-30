@@ -1,0 +1,13 @@
+dataset.zip
+yolov4.weights
+.idea
+__pycache__/
+.ipynb_checkpoints
+*.
+dataset/
+test_nb
+Icon
+savemodel1/
+H51/
+H52/
+savemodel2/
